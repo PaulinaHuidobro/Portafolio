@@ -1,4 +1,4 @@
-# Portafolio
+# Portafolio 
 
 Portafolio de Paulina Huidobro
 ¡Bienvenida a mi portafolio! Este proyecto está construido con Next.js y NextUI, y muestra una selección de mis proyectos y habilidades en el desarrollo web.
