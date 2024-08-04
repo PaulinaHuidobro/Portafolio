@@ -84,7 +84,7 @@ export default function ProyectosPage() {
       </Link>
       <Link
         isExternal
-        href="https://proyecto1-gamma-weld.vercel.app/"
+        href="https://mcarrascot.github.io/Dashboard/?classId=405531ac-bb20-43b2-8b62-bc2b4611dac6&assignmentId=52c93875-254f-4f35-a6b3-9f85fa1b5f64&submissionId=6061bb12-fa26-9063-b94a-a869c7acc354"
         showAnchorIcon
       >
         Link Vercel
