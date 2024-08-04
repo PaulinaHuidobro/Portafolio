@@ -1,22 +1,18 @@
-# Next.js & NextUI Template
+# Portafolio
 
-This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
+Portafolio de Paulina Huidobro
+¡Bienvenida a mi portafolio! Este proyecto está construido con Next.js y NextUI, y muestra una selección de mis proyectos y habilidades en el desarrollo web.
 
-[Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
-
-## Technologies Used
-
-- [Next.js 14](https://nextjs.org/docs/getting-started)
-- [NextUI v2](https://nextui.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [next-themes](https://github.com/pacocoursey/next-themes)
-
-## How to Use
-
-### Use the template with create-next-app
+## Tecnologías Utilizadas
+Next.js: Framework de React para la creación de aplicaciones web.
+NextUI: Biblioteca de componentes UI para React.
+Tailwind CSS: Utilizado para estilos personalizados y diseño responsivo.
+React: Biblioteca de JavaScript para construir interfaces de usuario.
+ 
+##  Características
+Diseño Moderno: Utiliza componentes de NextUI para una experiencia de usuario moderna y atractiva.
+Interactividad: Incluye elementos interactivos como tarjetas y botones.
+Responsive: Se adapta a diferentes tamaños de pantalla gracias a Tailwind CSS.
 
 To create a new project based on this template using `create-next-app`, run the following command:
 
