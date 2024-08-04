@@ -70,7 +70,7 @@ export default function PricingPage() {
             </div>
             <div className="flex gap-1">
               <p className="font-semibold text-default-400 text-small">97.1K</p>
-              <p className="text-default-400 text-small">Followers</p>
+              <p className="text-default-400 text-small"> Followers </p>
             </div>
           </CardFooter>
         </Card>
